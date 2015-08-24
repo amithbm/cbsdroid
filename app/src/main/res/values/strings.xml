@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">cbsdroid</string>
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Recent Transactions</string>
+    <string name="title_section3">Sales Trend</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_search">Search</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="myappname">CBSDROID</string>
+    <string name="amount_val">Enter amount</string>
+    <string name="cust_phone_no">Customer phone no</string>
+    <string name="action_logout">Logout</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
